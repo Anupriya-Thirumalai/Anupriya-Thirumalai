@@ -1,8 +1,8 @@
 # Hi, I'm Anu 👋
 
-I'm a computational biologist and ML engineer with a PhD in Neuroscience (University of Göttingen). My background sits at the intersection of hands-on preclinical research and data-driven engineering. I've spent years both collecting biological data in the lab and building the pipelines and models to make sense of it.
+I'm a PhD neuroscientist (University of Göttingen) working at the intersection of biology and machine learning / data science. I have spent years both generating biological data through hands-on experiments and building the computational pipelines and models to make sense of it.
 
-I'm interested in roles at the intersection of biology and computation, in industry and research alike, particularly in biomedical and life science applications.
+I'm interested in problems where biology meets computation, particularly in biomedical and life-science applications.
 
 ---
 
@@ -31,15 +31,15 @@ I'm interested in roles at the intersection of biology and computation, in indus
 
 ## Skills
 
-**ML and Data Science** — PyTorch, scikit-learn, 1D/3D CNNs, RAG, LlamaIndex, HuggingFace, Groq
+**ML and Data Science** : PyTorch, scikit-learn, 1D/3D CNNs, RAG, LlamaIndex, HuggingFace, Groq
 
-**Data Engineering** — Python, SQL, ETL pipelines, REST APIs, web scraping, Google Cloud Platform
+**Data Engineering** : Python, SQL, ETL pipelines, REST APIs, web scraping, Google Cloud Platform
 
-**Scientific Computing** — NumPy, SciPy, pandas, MATLAB, large-scale image analysis
+**Scientific Computing** : NumPy, SciPy, pandas, MATLAB, large-scale image analysis
 
-**Imaging** — Light-sheet and confocal microscopy, Napari, Dask, StarDist 3D, U-Net
+**Imaging** : Light-sheet and confocal microscopy, Napari, Dask, StarDist 3D, U-Net
 
-**Lab** — Stereotaxic surgery, viral vector injections, ABR recording, invivo-electrophysiology, FELASA B
+**Experimental (in-vivo)** : Stereotaxic surgery, viral vector injections, chronic implantation (cannulas, optical fibers, recording electrodes), ABR recordings, single-unit recordings (auditory nerve fibers), invivo-electrophysiology, FELASA B
 
 ---
 
